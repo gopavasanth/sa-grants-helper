@@ -1,0 +1,11 @@
+{
+  "name": "sa-grants-helper",
+  "owner": { "name": "gopavasanth" },
+  "plugins": [
+    {
+      "name": "sa-grants-helper",
+      "source": "./",
+      "description": "Find facts in assigned South Asia Rapid Fund grant proposals, with exact quotes and Meta-Wiki section links. Lookup only, no evaluation."
+    }
+  ]
+}

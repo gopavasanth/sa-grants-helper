@@ -1,0 +1,8 @@
+{
+  "name": "sa-grants-helper",
+  "version": "0.1.0",
+  "description": "Find facts in assigned South Asia Rapid Fund grant proposals (Round 3, FY 2026-27), with exact quotes and Meta-Wiki section links. Lookup only, no evaluation.",
+  "author": { "name": "gopavasanth" },
+  "repository": "https://github.com/gopavasanth/sa-grants-helper",
+  "skills": "./skills/"
+}
